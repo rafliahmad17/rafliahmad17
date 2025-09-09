@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Halo, Saya [Nama Lengkap Anda] 👋</h1>
+<h3 align="center">Seorang Web Developer Handal dari Indonesia</h3>
 
-<!--
-**rafliahmad17/rafliahmad17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 Tentang Saya:
+- 🔭 Saat ini saya sedang fokus mengerjakan proyek **[Sebutkan Proyek/Teknologi Utama Anda]**.
+- 🌱 Saya terus belajar dan mendalami **[Sebutkan Teknologi Baru yang Dipelajari, misal: "Next.js dan TypeScript"]**.
+- 💬 Saya terbuka untuk diskusi mengenai **React, Node.js, Best Practices dalam Web Development**.
+- 📫 Hubungi saya melalui email di **[alamat.email.anda@gmail.com]**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,express,mongodb,mysql,git,docker,figma&perline=5" />
+  </a>
+</p>
+*(Anda bisa kustomisasi ikon di atas melalui: https://skillicons.dev)*
+
+---
+
+### 📊 Statistik GitHub Saya:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-ANDA]&show_icons=true&theme=tokyonight&locale=id" alt="Statistik GitHub" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-ANDA]&layout=compact&theme=tokyonight&locale=id" alt="Bahasa Teratas" />
+</p>
+
+---
+
+### 🔗 Mari Terhubung:
+<p align="center">
+  <a href="https://www.linkedin.com/in/[USERNAME-LINKEDIN-ANDA]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://[WEBSITE-PORTOFOLIO-ANDA].com" target="_blank">
+    <img src="https://img.shields.io/badge/Portofolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portofolio"/>
+  </a>
+</p>
