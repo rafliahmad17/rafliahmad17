@@ -1,4 +1,4 @@
-<h1 align="center">Halo, Saya [Nama Lengkap Anda] 👋</h1>
+<h1 align="center">Halo, Saya [Rafli Ahmad Zulkarnain] 👋</h1>
 <h3 align="center">Seorang Web Developer Handal dari Indonesia</h3>
 
 ---
@@ -7,7 +7,7 @@
 - 🔭 Saat ini saya sedang fokus mengerjakan proyek **[Sebutkan Proyek/Teknologi Utama Anda]**.
 - 🌱 Saya terus belajar dan mendalami **[Sebutkan Teknologi Baru yang Dipelajari, misal: "Next.js dan TypeScript"]**.
 - 💬 Saya terbuka untuk diskusi mengenai **React, Node.js, Best Practices dalam Web Development**.
-- 📫 Hubungi saya melalui email di **[alamat.email.anda@gmail.com]**.
+- 📫 Hubungi saya melalui email di **[rafliahmad1706@gmail.com]**.
 
 ---
 
