@@ -4,8 +4,8 @@
 ---
 
 ### 👨‍💻 Tentang Saya:
-- 🔭 Saat ini saya sedang fokus mengerjakan proyek **[Sebutkan Proyek/Teknologi Utama Anda]**.
-- 🌱 Saya terus belajar dan mendalami **[Sebutkan Teknologi Baru yang Dipelajari, misal: "Next.js dan TypeScript"]**.
+- 🔭 Saat ini saya sedang fokus mengerjakan beberapa proyek.
+- 🌱 Saya terus belajar dan mendalami **[Sebutkan Teknologi Baru yang Dipelajari: "Next.js dan TypeScript"]**.
 - 💬 Saya terbuka untuk diskusi mengenai **React, Node.js, Best Practices dalam Web Development**.
 - 📫 Hubungi saya melalui email di **[rafliahmad1706@gmail.com]**.
 
@@ -32,10 +32,10 @@
 
 ### 🔗 Mari Terhubung:
 <p align="center">
-  <a href="https://www.linkedin.com/in/[USERNAME-LINKEDIN-ANDA]" target="_blank">
+  <a href="https://www.linkedin.com/in/[rafliahmad]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://[WEBSITE-PORTOFOLIO-ANDA].com" target="_blank">
+  <a href="https://[].com" target="_blank">
     <img src="https://img.shields.io/badge/Portofolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portofolio"/>
   </a>
 </p>
